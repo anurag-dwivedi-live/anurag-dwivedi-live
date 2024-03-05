@@ -3,6 +3,10 @@
 <h3 align="center">A Passionate Developer from India</h3>
 <img src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" width="400">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-dwivedi-live&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-dwivedi-live" /> </p>
+
+<p align="left"> <a href="https://twitter.com/anuragishere" target="blank"><img src="https://img.shields.io/twitter/follow/anuragishere?logo=twitter&style=for-the-badge" alt="anuragishere" /></a> </p>
+
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Django, ReactJs**
@@ -11,10 +15,11 @@
 
 - 📄 Know about my experiences [Full Stack Web Development](Full Stack Web Development)
 
-- ⚡ Fun fact **I can do this all day**
+- ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/anuragishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragishere" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurag-dwivedi-live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-dwivedi-live" height="30" width="40" /></a>
 <a href="https://fb.com/anuragdwivedilive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuragdwivedilive" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag_dwivedi.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_dwivedi.live" height="30" width="40" /></a>
