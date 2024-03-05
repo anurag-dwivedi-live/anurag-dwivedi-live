@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://anurag-dwivedi-live.io)
+[![MasterHead](https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/pythonFeature_img.gif)](https://anurag-dwivedi-live.io)
 <h1 align="center">Hi 👋, I'm Anurag Dwivedi</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
