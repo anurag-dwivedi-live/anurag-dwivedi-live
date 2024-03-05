@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*69OSwEbMMvxTJDvjJtWx1Q.gif)](https://anurag-dwivedi-live.io)
 <h1 align="center">Hi 👋, I'm Anurag Dwivedi</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<img src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" width="400">
+<img src="https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/pythonFeature_img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-dwivedi-live&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-dwivedi-live" /> </p>
 
