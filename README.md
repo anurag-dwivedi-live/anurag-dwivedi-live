@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*69OSwEbMMvxTJDvjJtWx1Q.gif)](https://anurag-dwivedi-live.io)
 <h1 align="center">Hi 👋, I'm Anurag Dwivedi</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
+<img src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" width="400">
 
 - 🌱 I’m currently learning **Django**
 
