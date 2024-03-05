@@ -1,7 +1,7 @@
-[![MasterHead](https://https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://anurag-dwivedi-live.io)
 <h1 align="center">Hi 👋, I'm Anurag Dwivedi</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 
 - 🌱 I’m currently learning **Django**
 
