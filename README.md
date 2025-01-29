@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anurag-dwivedi-live/anurag-dwivedi-live/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/anurag-dwivedi-live/anurag-dwivedi-live/blob/output/github-snake-dark.svg)
 
 ###
