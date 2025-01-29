@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! I'm Anurag, A Web and Mobile Dev</h2>
+<h1 align="center">Hi 👋! I'm Anurag!</h1>
+
+###
+
+<h2 align="center">A Full Stack Web Developer</h2>
 
 ###
 
