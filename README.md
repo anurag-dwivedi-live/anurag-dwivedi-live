@@ -28,6 +28,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/0b/79/6a/0b796a2198f36cdb21c4357592a10ecf.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/anurag_dwivedi.live" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -42,14 +46,7 @@
   <a href="https://www.facebook.com/anuragdwivedilive" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/anurag-dwivedi-live/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/0b/79/6a/0b796a2198f36cdb21c4357592a10ecf.gif"  />
 
 ###
 
